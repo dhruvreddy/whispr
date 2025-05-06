@@ -1,0 +1,11 @@
+// {  "editor.wordWrap": "wordWrapColumn",
+//    "editor.wordWrapColumn": 200,
+//    "editor.rulers": [200],
+//    "dart.lineLength": 200,
+//    "[dart]": {
+//     "editor.rulers": [
+//         200
+//     ]
+//   },
+    
+// }
